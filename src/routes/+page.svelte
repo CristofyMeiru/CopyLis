@@ -1,8 +1,5 @@
-<script>
+<script lang="ts">
   import "../global.css";
 </script>
 
-<div class=" ">
-  <h1 class="  text-lg">Clipboard</h1>
-  
-</div>
+<div class=" "></div>
