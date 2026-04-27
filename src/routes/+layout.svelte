@@ -21,7 +21,7 @@
 
 <main
   data-tauri-drag-region
-  class=" bg-background text-foreground font-trebuchet p-4 border border-border h-screen"
+  class=" bg-background text-foreground p-4 border border-border h-screen"
 >
   <h1
     class=" text-lg font-semibold"
